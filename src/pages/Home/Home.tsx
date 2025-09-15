@@ -23,12 +23,12 @@ export default function Home() {
 		},
 		{
 			title: "Voir mon CV",
-			url: "/Linktree/CV-Charles_Catto.pdf",
+			url: "/Openclassroom-Linktree/CV-Charles_Catto.pdf",
 			img: cv,
 		},
 		{
-			title: "Programme Formation OpenClassroom CDA",
-			url: "/Linktree/Descriptif_formation_CDA.pdf",
+			title: "Programme Formation OpenClassroom",
+			url: "https://openclassrooms.com/fr/paths/527-developpeur-dapplication-android",
 			img: openclassrooms,
 		},
 		{
