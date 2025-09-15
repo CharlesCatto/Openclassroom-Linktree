@@ -23,7 +23,7 @@ export default function Home() {
 		},
 		{
 			title: "Voir mon CV",
-			url: "/Linktree/CV_Charles_Catto.pdf",
+			url: "/Linktree/CV-Charles_Catto.pdf",
 			img: cv,
 		},
 		{
