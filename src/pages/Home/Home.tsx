@@ -5,8 +5,7 @@ import Me from "../../assets/Me.png";
 
 import portfolio from "../../assets/Cards/portfolio.svg";
 import linkedin from "../../assets/Cards/linkedin.svg";
-import calendar from "../../assets/Cards/calendar.png";
-import simplon from "../../assets/Cards/simplon.svg";
+import openclassrooms from "../../assets/Cards/openclassrooms.svg";
 import cv from "../../assets/Cards/CV.png";
 import github from "../../assets/Cards/GitHub.png";
 
@@ -28,14 +27,9 @@ export default function Home() {
 			img: cv,
 		},
 		{
-			title: "Programme Formation Simplon CDA",
+			title: "Programme Formation OpenClassroom CDA",
 			url: "/Linktree/Descriptif_formation_CDA.pdf",
-			img: simplon,
-		},
-		{
-			title: "Calendrier Formation Simplon",
-			url: "/Linktree/CDA_Calendar.pdf",
-			img: calendar,
+			img: openclassrooms,
 		},
 		{
 			title: "Mon GitHub",

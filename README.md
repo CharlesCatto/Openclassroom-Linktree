@@ -6,7 +6,7 @@ On y retrouve quelques liens utiles me concernant, sous forme de **cartes cliqua
 - 🧾 Mon CV (PDF)
 - 💼 Mon LinkedIn
 - 🌐 Mon Portfolio
-- 🧠 La formation CDA chez Simplon (descriptif & calendrier)
+- 🧠 La formation Développeur d'Application Android
 - 👨‍💻 Mon GitHub
 
 ---
@@ -21,7 +21,7 @@ npm run dev
 Accès via :
 http://localhost:5173/Linktree/
 
-    ⚠️ En production (ex. Vercel), le projet est servi depuis /Linktree/, donc les assets (comme les PDF) sont accessibles via /Linktree/NOM_DU_FICHIER.pdf.
+    ⚠️ En production (ex. Vercel), le projet est servi depuis /Openclassroom-Linktree/, donc les assets (comme les PDF) sont accessibles via /Linktree/NOM_DU_FICHIER.pdf.
 
 ---
 
